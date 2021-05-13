@@ -1,2 +1,10 @@
 /* CSS COLOR */
 /* **************************************************************** */
+:root{
+        /*complementarios*/
+    --colorOrange: #FFCB13;
+        /*básicos*/
+    --colorBlack:#3A3A3A;
+    --colorWhite:#F5F5F5;
+}
+
